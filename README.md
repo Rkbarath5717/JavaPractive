@@ -1,2 +1,3 @@
-# JavaPractive
-daily work out java programing
+Java practice
+
+Practice makes the man perfect
